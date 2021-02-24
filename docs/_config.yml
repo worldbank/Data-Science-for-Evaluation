@@ -1,6 +1,6 @@
 site_name: Data Science for Evaluation
 
-nav:
+toc:
   - Home: index.md
   - Evaluation: evaluation.md
   
