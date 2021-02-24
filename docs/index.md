@@ -1,5 +1,5 @@
 ## Data Science for Evaluation
-This page houses learning materials from the Introduction to Data Science for Evaluation, a course offered as part of Independent Evaluation Group (IEG) Learning Week in March 2021.
+This page houses learning materials from *Introduction to Data Science for Evaluation*, a course offered as part of Independent Evaluation Group (IEG) Learning Week in March 2021.
 
 ### 1. State of Play: Scope, Scale, and Applications of Big Data in Evaluation
 Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie 
@@ -14,7 +14,7 @@ Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie
 [Presentation by Aivin Solatorio, Data Scientist, Development Economics Analytics and Tools Unit (DECAT)]
 
 
-## Learn More
+## Learn More!
 
 ### Resources relevant to Evaluation
 - [3ie Event: Systemic Review of Big Data for Evaluating Development Outcomes](https://www.youtube.com/watch?v=QeocY5OqwBI)
@@ -24,7 +24,10 @@ Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie
 
 ### Tools and Tutorials
 - The [Python for Data Science](https://github.com/worldbank/Python-for-Data-Science) course repo contains learning materials on basic to intermediate python, as well as introductory material on topics including: [machine learning, use of APIs, geospatial analysis](https://github.com/worldbank/Python-for-Data-Science/tree/master/July_2019_Poverty_GP/day_3), [text analysis (natural language processing), and use of call detail records (CDR) in development](https://github.com/worldbank/Python-for-Data-Science/tree/master/July_2019_Poverty_GP/day_4). 
-- The [Data in Action Toolkit](https://worldbank.github.io/Data-in-Action) is a collection of materials to support the process of designing and delivering data products in the context of international development. 
 - The [Open Night Lights Tutorial](https://worldbank.github.io/OpenNightLights/welcome.html) showcases the power of remote sensing data and provides guidance on the tools to work with these data.
 - [Social Media Collection Tutorials]
 - [Mobility Handbook]
+
+### Big Data in Action
+- The [Data in Action Toolkit](https://worldbank.github.io/Data-in-Action) page houses a collection of materials to support the process of designing and delivering data products in the context of international development. 
+- The [Big Data in Action for Development series](https://olc.worldbank.org/content/big-data-action-development), is a 3-part learning series hosted on the World Bank's Open Learning Campus platform. The series features bite-sized learning modules comprising of case studies and expert interviews on how non-traditional data can be used to inform decision-making, enhance service delivery, and promote citizen engagement for improved outcomes in international development.
