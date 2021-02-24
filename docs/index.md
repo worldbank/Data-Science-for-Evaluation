@@ -1,23 +1,16 @@
-# Data Science for Evaluation
-
+## Data Science for Evaluation
 This page houses learning materials from the Introduction to Data Science for Evaluation, a course offered as part of Independent Evaluation Group (IEG) Learning Week in March 2021.
 
-
-## Part 1: Overview of Data Science in Evaluation
-
-### State of Play: Scope, Scale, and Applications of Big Data in Evaluation
+### 1. State of Play: Scope, Scale, and Applications of Big Data in Evaluation
 Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie 
 
-### Data Science in Action for Evaluation 
+### 2. Data Science in Action for Evaluation 
 [Presentation by Big Data Team, Development Economics Analytics and Tools Unit (DECAT)]
 
-
-## Part 2: Applications
-
-### Case 1: Satellite Data for Evaluation
+### 3. Application: Satellite Data for Evaluation
 [Presentation by Ran Goldblatt, Chief Scientist, New Light Technologies Inc.](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/ran_goldblatt.pdf)
 
-### Case 2: Text and Social Media for Evaluation
+### 4: Application: Text and Social Media for Evaluation
 [Presentation by Aivin Solatorio, Data Scientist, Development Economics Analytics and Tools Unit (DECAT)]
 
 
