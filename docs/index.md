@@ -1,8 +1,9 @@
 ## Data Science for Evaluation
 This page houses learning materials from *Introduction to Data Science for Evaluation*, a course offered as part of Independent Evaluation Group (IEG) Learning Week in March 2021.
 
-### 1. State of Play: Scope, Scale, and Applications of Big Data in Evaluation
-Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie 
+### 1. State of Play: 
+Scope, Scale, and Applications of Big Data in Evaluation
+[Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie]
 
 ### 2. Data Science in Action for Evaluation 
 [Presentation by Big Data Team, Development Economics Analytics and Tools Unit (DECAT)]
