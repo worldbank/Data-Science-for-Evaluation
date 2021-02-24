@@ -26,7 +26,7 @@ Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie
 ### Resources relevant to Evaluation
 - [3ie Event: Systemic Review of Big Data for Evaluating Development Outcomes](https://www.youtube.com/watch?v=QeocY5OqwBI)
 - [3ie Paper: Using big data for evaluating development outcomes:
- a systematic map](downloads/3ie_paper.docx)
+ a systematic map](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/3ie_paper.docx)
 - [Rockefeller Foundation paper: Measuring Results in the Age of Big Data](https://www.rockefellerfoundation.org/wp-content/uploads/Measuring-results-and-impact-in-the-age-of-big-data-by-York-and-Bamberger-March-2020.pdf)
 
 ### Tools and Tutorials
