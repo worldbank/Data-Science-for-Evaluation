@@ -8,14 +8,14 @@ Scope, Scale, and Applications of Big Data in Evaluation
 ### 2. Data Science in Action for Evaluation 
 [Presentation by Big Data Team, Development Economics Analytics and Tools Unit (DECAT)]
 
-### 3. Application: Satellite Data for Evaluation
+### 3. Case: Satellite Data for Evaluation
 [Presentation by Ran Goldblatt, Chief Scientist, New Light Technologies Inc.](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/ran_goldblatt.pdf)
 
-### 4: Application: Text and Social Media for Evaluation
+### 4: Case: Text and Social Media for Evaluation
 [Presentation by Aivin Solatorio, Data Scientist, Development Economics Analytics and Tools Unit (DECAT)]
 
 
-## Learn More!
+## Learn More
 
 ### Resources relevant to Evaluation
 - [3ie Event: Systemic Review of Big Data for Evaluating Development Outcomes](https://www.youtube.com/watch?v=QeocY5OqwBI)
