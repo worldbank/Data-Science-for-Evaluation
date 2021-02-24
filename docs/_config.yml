@@ -1,3 +1,7 @@
 site_name: Data Science for Evaluation
 
-theme: readthedocs
+nav:
+  - Home: index.md
+  - Evaluation: evaluation.md
+  
+theme: jekyll-theme-slate
