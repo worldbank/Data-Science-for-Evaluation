@@ -15,9 +15,7 @@ Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie
 ## Part 2: Applications
 
 ### Case 1: Satellite Data for Evaluation
-[Presentation by Ran Goldblatt, Chief Scientist, New Light Technologies Inc.](downloads/ran_goldblatt.pdf)
-
-[Pqresentation by Ran Goldblatt, Chief Scientist, New Light Technologies Inc.](https://github.com/worldbank/Data_Science_for_Evaluation/blob/gh-pages/docs/downloads/ran_goldblatt.pdf)
+[Presentation by Ran Goldblatt, Chief Scientist, New Light Technologies Inc.](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/ran_goldblatt.pdf)
 
 ### Case 2: Text and Social Media for Evaluation
 [Presentation by Aivin Solatorio, Data Scientist, Development Economics Analytics and Tools Unit (DECAT)]
