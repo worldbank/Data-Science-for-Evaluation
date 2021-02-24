@@ -4,4 +4,4 @@ nav:
   - Home: index.md
   - Evaluation: evaluation.md
   
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
