@@ -1,5 +1,5 @@
 ## Data Science for Evaluation
-This page houses learning materials from *Introduction to Data Science for Evaluation*, a course offered as part of Independent Evaluation Group (IEG) Learning Days in March 2021.
+This page houses learning materials from *Introduction to Data Science for Evaluation*, a course offered by the Development Economics Analytics and Tools (DECAT) Unit as part of Independent Evaluation Group (IEG) Learning Days in March 2021.
 
 ### 1. State of Play 
 Scope, scale, and applications of big data in evaluation
@@ -7,7 +7,7 @@ Scope, scale, and applications of big data in evaluation
 
 ### 2. Data Science in Action 
 A quick introduction to data science in action for evaluation 
-[Presentation by Big Data Team, Development Economics Analytics and Tools Unit (DECAT)]
+[Presentation by Development Economics Analytics and Tools Unit (DECAT)]
 
 ### 3. Application: Satellite Data
 [Presentation by Ran Goldblatt, Chief Scientist, New Light Technologies Inc.](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/ran_goldblatt.pdf)
