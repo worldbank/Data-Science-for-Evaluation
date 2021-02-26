@@ -23,7 +23,7 @@ A quick introduction to data science in action for evaluation
 - [3ie Paper: Using big data for evaluating development outcomes:
  a systematic map](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/3ie_paper_.docx)
 - [Rockefeller Foundation paper: Measuring Results in the Age of Big Data](https://www.rockefellerfoundation.org/wp-content/uploads/Measuring-results-and-impact-in-the-age-of-big-data-by-York-and-Bamberger-March-2020.pdf)
-- [Use of big data in project evaluations](https://www.researchgate.net/publication/277982079_Use_of_big_data_in_project_evaluations), June 2015, Nils Olsson, Nils and Heidi Bull-Berg, International Journal of Managing Projects in Business, 8(3):491-512
+- [Use of big data in project evaluations](https://www.researchgate.net/publication/277982079_Use_of_big_data_in_project_evaluations), International Journal of Managing Projects in Business, 8(3):491-512June 2015, Nils Olsson, Nils and Heidi Bull-Berg. 
 
 ### Big Data in Action
 - The [Data in Action Toolkit](https://worldbank.github.io/Data-in-Action) page houses a collection of materials to support the process of designing and delivering data products in the context of international development. 
