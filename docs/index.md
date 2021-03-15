@@ -20,8 +20,8 @@ A quick introduction to data science in action for evaluation
 
 ### Resources Relevant to Evaluation
 - [3ie Event: Systemic Review of Big Data for Evaluating Development Outcomes](https://www.youtube.com/watch?v=QeocY5OqwBI)
-- [3ie Paper: Using big data for evaluating development outcomes:
- a systematic map](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/3ie_paper_.docx)
+- Centre of Excellence for Development Impact and Learning (CEDIL) Methods Working paper: [Using big data for evaluating development outcomes:
+ a systematic map](https://cedilprogramme.org/publications/cedil-methods-working-papers/cedil-methods-working-paper-2/) by Francis Rathinam, Sayak Khatua, Zeba Siddiqui, Manya Malik, Pallavi Duggal, Samantha Watson and Xavier Vollenweider. 
 - [Rockefeller Foundation paper: Measuring Results in the Age of Big Data](https://www.rockefellerfoundation.org/wp-content/uploads/Measuring-results-and-impact-in-the-age-of-big-data-by-York-and-Bamberger-March-2020.pdf)
 - [Use of big data in project evaluations](https://www.researchgate.net/publication/277982079_Use_of_big_data_in_project_evaluations), International Journal of Managing Projects in Business, 8(3):491-512June 2015, Nils Olsson, Nils and Heidi Bull-Berg. 
 
