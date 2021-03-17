@@ -1,18 +1,20 @@
 ## Data Science for Evaluation
 This page houses learning materials from *Introduction to Data Science for Evaluation*, a course offered by the Development Economics Analytics and Tools (DECAT) Unit as part of Independent Evaluation Group (IEG) Learning Days in March 2021.
 
-### 1. State of Play 
-Scope, scale, and applications of big data in evaluation
+### 1. Big Data: State of Play 
+Use of big data in measuring development impact
 [Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/1-%20Douglas_Glandon_Big%20data%20pres%20(17%20Mar%202021).pdf)
 
-### 2. Data Science in Action 
-A quick introduction to data science in action for evaluation 
+### 2. Data Science in Action for Evaluation
+An introduction to the data in action toolkit 
 [Presentation by Dharana Rijal, Data Scientist, Development Economics Analytics and Tools Unit (DECAT)](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/2-%20Dharana_Rijal_IEG_Data_In_Action_for_Evaluation_v3-17_nn.pdf)
 
-### 3. Application: Satellite Data
+### 3. Application: Remote-sensing
+Satellite data for decision-making: Seeing earth from 800km above ground
 [Presentation by Ran Goldblatt, Chief Scientist, New Light Technologies Inc.](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/3-%20Ran_Goldblatt_GeoDataForIE_WB_IEG_Final.pdf)
 
-### 4: Application: Text and Social Media
+### 4: Application: Text Analytics
+Natural Language Processing: Review of applications and opportunities for IEG
 [Presentation by Aivin Solatorio, Data Scientist, Development Economics Analytics and Tools Unit (DECAT)](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/4-%20Aivin_Solatorio_Natural%20Language%20Processing%20-%20Extracting%20hidden%20insights%20from%20unstructured%20text%20data%20-%20Final.pdf)
 
 
