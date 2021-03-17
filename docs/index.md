@@ -23,10 +23,10 @@ Natural Language Processing: Review of applications and opportunities for IEG
 ### Resources Relevant to Development / Evaluation
 - [3ie Event: Systemic Review of Big Data for Evaluating Development Outcomes](https://www.youtube.com/watch?v=QeocY5OqwBI)
 - [Using big data for evaluating development outcomes:
- a systematic map](https://cedilprogramme.org/publications/cedil-methods-working-papers/cedil-methods-working-paper-2/) Centre of Excellence for Development Impact and Learning (CEDIL) Methods Working paper by Francis Rathinam, Sayak Khatua, Zeba Siddiqui, Manya Malik, Pallavi Duggal, Samantha Watson and Xavier Vollenweider. 
+ a systematic map](https://cedilprogramme.org/publications/cedil-methods-working-papers/cedil-methods-working-paper-2/), Centre of Excellence for Development Impact and Learning (CEDIL) Methods Working paper by Francis Rathinam, Sayak Khatua, Zeba Siddiqui, Manya Malik, Pallavi Duggal, Samantha Watson and Xavier Vollenweider. 
 - [Rockefeller Foundation paper: Measuring Results in the Age of Big Data](https://www.rockefellerfoundation.org/wp-content/uploads/Measuring-results-and-impact-in-the-age-of-big-data-by-York-and-Bamberger-March-2020.pdf)
 - [Use of big data in project evaluations](https://www.researchgate.net/publication/277982079_Use_of_big_data_in_project_evaluations), International Journal of Managing Projects in Business, 8(3):491-512June 2015, Nils Olsson, Nils and Heidi Bull-Berg. 
-- [Peer Review Framework for Predictive Analytics in Humanitarian Response](https://reliefweb.int/sites/reliefweb.int/files/resources/Peer%20review%20framework%20for%20predictive%20analytics%20in%20humanitarian%20response%20%28March%202020%29.pdf) The Centre for Humanitarian Data (United Nations Office for the Coordination of Humanitarian Affairs). 
+- [Peer Review Framework for Predictive Analytics in Humanitarian Response](https://reliefweb.int/sites/reliefweb.int/files/resources/Peer%20review%20framework%20for%20predictive%20analytics%20in%20humanitarian%20response%20%28March%202020%29.pdf), by The Centre for Humanitarian Data (United Nations Office for the Coordination of Humanitarian Affairs). 
 
 ### Big Data in Action
 - The [Data in Action Toolkit](https://worldbank.github.io/Data-in-Action) page houses a collection of materials to support the process of designing and delivering data products in the context of international development. 
