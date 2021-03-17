@@ -3,17 +3,17 @@ This page houses learning materials from *Introduction to Data Science for Evalu
 
 ### 1. State of Play 
 Scope, scale, and applications of big data in evaluation
-[Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie]
+[Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/1-%20Douglas_Glandon_Big%20data%20pres%20(17%20Mar%202021).pdf
 
 ### 2. Data Science in Action 
 A quick introduction to data science in action for evaluation 
-[Presentation by Development Economics Analytics and Tools Unit (DECAT)]
+[Presentation by Dharana Rijal, Data Scientist, Development Economics Analytics and Tools Unit (DECAT)](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/2-%20Dharana_Rijal_IEG_Data_In_Action_for_Evaluation_v3-17_nn.pdf)
 
 ### 3. Application: Satellite Data
-[Presentation by Ran Goldblatt, Chief Scientist, New Light Technologies Inc.](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/ran_goldblatt_.pdf)
+[Presentation by Ran Goldblatt, Chief Scientist, New Light Technologies Inc.](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/3-%20Ran_Goldblatt_GeoDataForIE_WB_IEG_Final.pdf)
 
 ### 4: Application: Text and Social Media
-[Presentation by Aivin Solatorio, Data Scientist, Development Economics Analytics and Tools Unit (DECAT)]
+[Presentation by Aivin Solatorio, Data Scientist, Development Economics Analytics and Tools Unit (DECAT)](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/4-%20Aivin_Solatorio_Natural%20Language%20Processing%20-%20Extracting%20hidden%20insights%20from%20unstructured%20text%20data%20-%20Final.pdf)
 
 
 ## Learn More
