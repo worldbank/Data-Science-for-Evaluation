@@ -1,5 +1,5 @@
 ## Data Science for Evaluation
-This page houses learning materials from *Introduction to Data Science for Evaluation*, a course offered by the Development Economics Analytics and Tools (DECAT) Unit as part of Independent Evaluation Group (IEG) Learning Days in March 2021.
+This page hosts the learning materials from the Introduction to Data Science for Evaluation seminar that was co-designed by the Development Economics Analytics and Tools (DECAT) Unit as part of Independent Evaluation Group (IEG) Learning Days in March 2021. These presentations and collateral resources are curated to support the IEG seminar and are not intended to reflect official World Bank evaluation approaches and methods.
 
 ### 1. Big Data: State of Play 
 Use of big data in measuring development impact
