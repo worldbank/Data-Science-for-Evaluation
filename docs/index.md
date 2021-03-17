@@ -3,7 +3,7 @@ This page houses learning materials from *Introduction to Data Science for Evalu
 
 ### 1. State of Play 
 Scope, scale, and applications of big data in evaluation
-[Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/1-%20Douglas_Glandon_Big%20data%20pres%20(17%20Mar%202021).pdf
+[Presentation by Douglas Glandon, Lead Evaluation Specialist, 3ie](https://github.com/worldbank/Data_Science_for_Evaluation/raw/gh-pages/docs/downloads/1-%20Douglas_Glandon_Big%20data%20pres%20(17%20Mar%202021).pdf)
 
 ### 2. Data Science in Action 
 A quick introduction to data science in action for evaluation 
