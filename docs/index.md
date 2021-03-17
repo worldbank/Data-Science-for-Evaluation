@@ -34,5 +34,5 @@ A quick introduction to data science in action for evaluation
 - The [Python for Data Science](https://github.com/worldbank/Python-for-Data-Science) course repo contains learning materials on basic to intermediate python, as well as introductory material on topics including: [machine learning, use of APIs, geospatial analysis](https://github.com/worldbank/Python-for-Data-Science/tree/master/July_2019_Poverty_GP/day_3), [text analysis (natural language processing), and use of call detail records (CDR) in development](https://github.com/worldbank/Python-for-Data-Science/tree/master/July_2019_Poverty_GP/day_4). 
 - [Intro to git / GitHub](https://osf.io/e54gy/): training materials for reusable and collaborative workflows from our colleagues at DIME.
 - The [Open Night Lights Tutorial](https://worldbank.github.io/OpenNightLights/welcome.html) showcases the power of remote sensing data and provides guidance on the tools to work with these data.
-- [Social Media Collection Tutorials]
-- [Mobility Handbook]
+- [Social Media Data Collection Tutorial: Facebook](https://worldbank.github.io/connectivity_mapping/intro.html) 
+- [Social Media Data Collection Tutorial: Twitter](https://github.com/worldbank/TwitterEconomicMonitoring)
